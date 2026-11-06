@@ -1,6 +1,14 @@
 # 💳 Credit Card Fraud Detection System
 > **딥러닝 기반 신용카드 이상거래(Fraud) 감지 프로젝트**
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 
 ## 1. 프로젝트 개요 (Project Overview)
 본 프로젝트는 약 28만 건의 신용카드 결제 트랜잭션 데이터를 분석하고, 딥러닝 모델을 활용하여 **정상 거래와 이상 거래(Fraud)를 분류해 내는 시스템**을 구축하는 것을 목표로 합니다. 
